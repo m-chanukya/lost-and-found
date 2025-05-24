@@ -1,0 +1,16 @@
+{
+  "userId": "test-user-1",
+  "category": "Electronics",
+  "title": "MacBook Pro 13-inch",
+  "description": "Silver MacBook Pro with stickers on the cover, last used in the library",
+  "lastSeenLocation": "University Library, 2nd Floor",
+  "date": "2024-03-20T14:30:00Z",
+  "characteristics": {
+    "color": "Silver",
+    "brand": "Apple",
+    "size": "13-inch",
+    "markings": "Stickers on the cover",
+    "additionalDetails": "Has a small scratch near the charging port"
+  },
+  "status": "pending"
+} 

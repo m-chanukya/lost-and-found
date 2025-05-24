@@ -1,0 +1,17 @@
+{
+  "userId": "test-user-2",
+  "category": "Electronics",
+  "title": "Found MacBook Pro",
+  "description": "Found a silver MacBook Pro with stickers, found in the library study area",
+  "foundLocation": "University Library, Study Area",
+  "whereStored": "Library Lost and Found Office",
+  "date": "2024-03-20T16:45:00Z",
+  "characteristics": {
+    "color": "Silver",
+    "brand": "Apple",
+    "size": "13-inch",
+    "markings": "Has stickers on top",
+    "additionalDetails": "Noticed a scratch near charging port"
+  },
+  "status": "pending"
+} 
